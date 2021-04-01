@@ -1,8 +1,5 @@
-  
-import userAuth from './useAuth';
-import adminAuth from './useAdminAuth';
+import userAuth from './userAuth';
 
 export {
-  userAuth,
-  adminAuth
+  userAuth
 };
